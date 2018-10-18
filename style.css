@@ -1,0 +1,37 @@
+body{margin: 0;}
+/*
+.headerContainer{
+  width: 100vw;
+  height: 50px;
+  background: red;}*/
+
+
+
+
+
+ul.navlist{
+  /*
+  width: 50%;
+  min-width: 400px;
+  margin: 0;
+  list-style: none;
+  background-color: pink;
+*/
+}
+
+li.navItem{/*
+
+  background-color: orange;
+  display:inline;
+  margin: 0 10px;*/
+
+}
+.heroImg{
+  width: 300px;
+  margin: 0 auto;
+  display:block;
+}
+p{text-align: center;}
+.siteSubtitle{text-align: center;
+}
+  .siteTitle{text-align: center;}
